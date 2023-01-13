@@ -1,6 +1,4 @@
 #Name: Michelle T
-#Teacher: Ms. Brace
-#Course: ICS 3U0
 #Date: July 27th, 2020
 
 #Program: This program creates an app that teaches you about biometrics. There are two parts to this app.
